@@ -27,6 +27,17 @@ The project focuses on data cleaning, transformation, modeling, visualization, a
 
 PREVIEW:
 
+<img width="914" height="519" alt="Screenshot 2025-11-08 205729" src="https://github.com/user-attachments/assets/5284f6fe-b3bc-4231-8d47-e0344f6344de" />
+
+<img width="1283" height="568" alt="Screenshot 2025-11-08 230832" src="https://github.com/user-attachments/assets/9c47ccbb-234a-4ac7-bdbb-265739aebc45" />
+<img width="1260" height="334" alt="Screenshot 2025-11-08 230625" src="https://github.com/user-attachments/assets/85bccb23-fbe8-44bb-86a2-e083ca8dc685" />
+<img width="1275" height="644" alt="Screenshot 2025-11-08 230553" src="https://github.com/user-attachments/assets/1570bc03-ce96-445e-98d6-b0a1a5017420" />
+<img width="928" height="514" alt="Screenshot 2025-11-08 225840" src="https://github.com/user-attachments/assets/b408859e-bc7b-443f-9445-b5503dac2b90" />
+<img width="923" height="520" alt="Screenshot 2025-11-08 205838" src="https://github.com/user-attachments/assets/55f6a2fa-7235-40ee-bacc-4866ad5df447" />
+<img width="922" height="524" alt="Screenshot 2025-11-08 205814" src="https://github.com/user-attachments/assets/e34e6e6a-04e8-4e81-ad04-9244a0c1f61b" />
+
+
+
 <img width="1283" height="568" alt="Screenshot 2025-11-08 230832" src="https://github.com/user-attachments/assets/602d1076-7912-4197-90fe-aac074e42c2d" />
 
 
